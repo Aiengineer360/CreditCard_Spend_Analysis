@@ -1,7 +1,7 @@
 # Credit Card Spend Analysis & Forecasting
 
 ## Project Overview
-This project analyzes credit card transactions to uncover spending patterns, forecast future trends, and detect anomalies. Using advanced time-series forecasting and machine learning techniques, it helps financial institutions and businesses enhance budgeting, marketing strategies, and customer experience through data-driven insights.
+This project analyzes credit card transactions to uncover spending patterns, forecast future trends, and detect anomalies. Using advanced time-series forecasting and machine learning techniques, it helps financial institutions and businesses enhance budgeting, marketing strategies, and customer experience through data-driven insights. It is an ML based project using time series facebok prophet model.
 
 ## Key Features
 
